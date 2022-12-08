@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, RouterProvider, Navigate } from 'react-router-dom';
 import './css/index.css';
-import App from './App';
+import App from './App.js';
 import Root from './routes/navbar'
 import ErrorPage from './error';
 import Contact from './routes/contact';
