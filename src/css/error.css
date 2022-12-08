@@ -1,0 +1,22 @@
+#ErrorPage{
+    padding: 1rem; 
+    text-align: center;
+    font-weight: bold;   
+}
+#ErrorPage h1{
+    color:rgb(208, 2, 2);
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+
+#ErrorPage p{
+    padding: 1rem;
+}
+
+#ErrorPage h5{
+    color: rgb(155, 155, 155);
+}
+
+#ErrorPage .errorText{
+    color: gray;
+}
